@@ -29,7 +29,6 @@ async function loginUser(data:any) {
         return e;
     }
 }
-
 export default {
     createUser,
     loginUser,
